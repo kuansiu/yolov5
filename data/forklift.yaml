@@ -1,4 +1,4 @@
-train: ../datasets/forklift_train
-val: ../datasets/forklift_val
+train: ./../datasets/forklift_train
+val: ./../datasets/forklift_val
 nc: 2
 names: ['forklift', 'person']
